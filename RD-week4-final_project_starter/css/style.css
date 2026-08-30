@@ -31,19 +31,7 @@ img{
   width:100%;
 }
 
-
 p{
-  text-align:center;
-}
-
-div img{
-    width:150px;
-    height: 150px;
-    display:block;
-    margin-bottom:10px;
-}
-
-div figcaption{
   text-align:center;
 }
 
@@ -54,10 +42,23 @@ div{
   padding: 2px;
 }
 
+figure{
+    text-align:center;
+}
+
+div img{
+    width:150px;
+    height: 150px;
+    display:block;
+    margin: 0 auto 10px;
+}
 
 
 
-!hdhd
+
+
+
+
 
 
 
